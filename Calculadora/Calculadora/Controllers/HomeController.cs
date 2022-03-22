@@ -42,7 +42,7 @@ namespace Calculadora.Controllers
                     //desafio fazer em modo algébrico
                     break;
 
-                case ",":
+                case ",": 
                     //foi pressionada a vírgula
                     if (!visor.Contains(',')) { visor += botao; }
                     
